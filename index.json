@@ -254,5 +254,13 @@
         "duration": "03:10:31",
         "youtubeLink": "https://youtu.be/BAtYQZxpmhs"
     }
+    {
+        "id": 28,
+        "projectName": "Weather Application in web",
+        "languages": "html, css, Javascript",
+        "platform":"YouTube",
+        "duration": "03:37",
+        "youtubeLink": "https://youtu.be/WZNG8UomjSI"
+    }
    
 ]
